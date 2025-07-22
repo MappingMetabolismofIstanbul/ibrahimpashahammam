@@ -3,7 +3,7 @@ var config = {
     // leave commented to use Mapbox Standard Style
     style: 'mapbox://styles/dogatmn/cm4v9fem6000p01sf12f769y5/draft',
     accessToken: 'pk.eyJ1IjoiZG9nYXRtbiIsImEiOiJjbHlyMTJmcXgwMjQ3MmtzbTRsdm1pejdsIn0.vcEjL7lt8OoOPMP5o1PM6g',
-    showMarkers: true,
+    showMarkers: false,
     markerColor: '#ff70ab',
     //projection: 'equirectangular',
     //Read more about available projections here
