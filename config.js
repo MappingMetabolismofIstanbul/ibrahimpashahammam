@@ -141,35 +141,5 @@ var config = {
                 // }
             ]
         },
-        {
-            id: '5',
-            alignment: 'right',
-            hidden: false,
-            title: '',
-            image: '',
-            description: '',
-            location: {
-                center: [28.954260135615485,41.014552068026745],
-                zoom: 17,
-                pitch: 60,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 1,
-                //     duration: 5000
-                // }
-            ],
-            onChapterExit: [
-                // {
-                //     layer: 'layer-name',
-                //     opacity: 0
-                // }
-            ]
-        },
     ]
 };
